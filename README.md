@@ -23,7 +23,7 @@ A lightweight script for serial TM-align of PDB files. Compares each file in `q/
 - `c-tm/all/` – combined `.aln` files per query
 - `c-tm/all_tab/` – parsed TSV files
 - `c-tm/all_tab_sorted/` – TSV files sorted by TM-score
-- `tm-stacks/` – lines with TM-score ≥ threshold (default 0.4)
+- `tm-stacks/` – lines with TM-score ≥ threshold (default 0.6)
 - Summary tables: `<analysis_name>_all_results_<date>.tab`, `<analysis_name>_stack_counts_<date>.tab`
 
 ## Configuration
